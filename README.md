@@ -9,9 +9,9 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Studying at @ZABIST 🤖
+🤵 Studying at @sylani Mass It training🤖
 	
-👨‍💻 AI Engineer CargoAI
+👨‍💻Generative AI and chatbot student
 	
 💸 Help 80+ Clients via Generative AI & Automation
 
