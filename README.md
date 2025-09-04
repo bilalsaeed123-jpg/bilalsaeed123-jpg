@@ -63,7 +63,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/hammad-nadeem-6673981b5/"><img src="https://img.shields.io/badge/-Bilal Saeed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:std-hamza@gmail.com"><img src="https://img.shields.io/badge/-dhanibaksh22@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hamzasajid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@mind.in.pages-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
  
 <br>
