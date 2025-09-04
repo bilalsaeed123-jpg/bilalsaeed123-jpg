@@ -15,7 +15,7 @@
 	
 💸 Help 80+ Clients via Generative AI & Automation
 
-📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
+📧 Book free 1v1 consultation bilaljankhosa7862gmail.com
  
 <h2>Tech Stack</h2>
 
